@@ -19,18 +19,18 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 <i class="fa fa-file-pdf-o"></i> [Linux Mint 18 - Guia Oficial do Usuário](https://linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf)
 
-<i class="fa fa-file-text-o"></i> [Linha de Comando](/pescar/cli)
+<i class="fa fa-file-text-o"></i> [Linha de Comando](/cli)
 
-<i class="fa fa-file-text-o"></i> [Exercícios de aula](/pescar/exercicios)
+<i class="fa fa-file-text-o"></i> [Exercícios de aula](/exercicios)
 
 ### Extras
-<i class="fa fa-file-text-o"></i> [Libreoffice](/pescar/libreoffice/)
+<i class="fa fa-file-text-o"></i> [Libreoffice](/libreoffice/)
 
 <i class="fa fa-file-text-o"></i> [Ubunchu: Um Mangá sobre Ubuntu](/pt/posts/2016-04-17_ubunchu/)
 
 <i class="fa fa-file-text-o"></i> [Como se Tornar um Hacker](/hacker-howto/)
 
-<i class="fa fa-file-video-o"></i> [Vídeos do TED](/pescar/ted/)
+<i class="fa fa-file-video-o"></i> [Vídeos do TED](/ted/)
 
 ----
 
@@ -51,12 +51,12 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ### Eventos de Software Livre no Brasil
 <br/>
-[![](https://jonatha.daguerre.com.br/images/pescar/banner_fisl.jpg)](http://fisl.softwarelivre.org)
+[![](https://jonatha.daguerre.com.br/img/banner_fisl.jpg)](http://fisl.softwarelivre.org)
 
 
-[![](https://jonatha.daguerre.com.br/images/pescar/banner_latinoware.jpg)](http://latinoware.org/)
+[![](https://jonatha.daguerre.com.br/img/banner_latinoware.jpg)](http://latinoware.org/)
 
-[![](https://jonatha.daguerre.com.br/images/pescar/banner_flisol.jpg)](https://flisol.info/FLISOL2018/Brasil)
+[![](https://jonatha.daguerre.com.br/img/banner_flisol.jpg)](https://flisol.info/FLISOL2018/Brasil)
 
 
 ----
