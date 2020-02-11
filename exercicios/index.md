@@ -6,7 +6,7 @@ draft: false
 
 
 
-<a href="/pescar" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
+<a href="/" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
 
 #### 1 - Uso do sistema
 **Data de entrega:** 20/06/2018
@@ -64,7 +64,7 @@ Abra o terminal e execute os comandos necessários para realizar as tarefas abai
 
 Após o término de todas as tarefas, você deve copiar todo o conteúdo da janela, colocar **no corpo de um email** e enviá-lo para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`. O título do email **deve ser** `CLI Parte 1`.
 
-**Atenção:** Você pode consultar a lista de comandos vistos em aula [aqui](https://jonatha.daguerre.com.br/pescar/cli/).
+**Atenção:** Você pode consultar a lista de comandos vistos em aula [aqui](/cli).
 
 ###### Tarefas
 1. Use o comando que mostra qual diretório você está atualmente.

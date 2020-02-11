@@ -6,6 +6,8 @@ banner: "pescar-banner.jpg"
 description: "O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do Projeto Pescar Unidade Procempa. Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux e Software Livre."
 ---
 
+![](/img/pescar-banner.jpg)
+
 ### Bem vindo aluno!  <i class="fa fa-linux "></i>
 O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do [Projeto Pescar Unidade Procempa](http://www2.portoalegre.rs.gov.br/pescar). Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux, Software Livre e Código Aberto.
 
@@ -51,12 +53,12 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ### Eventos de Software Livre no Brasil
 <br/>
-[![](https://jonatha.daguerre.com.br/img/banner_fisl.jpg)](http://fisl.softwarelivre.org)
+[![](/img/banner_fisl.jpg)](http://fisl.softwarelivre.org)
 
 
-[![](https://jonatha.daguerre.com.br/img/banner_latinoware.jpg)](http://latinoware.org/)
+[![](/img/banner_latinoware.jpg)](http://latinoware.org/)
 
-[![](https://jonatha.daguerre.com.br/img/banner_flisol.jpg)](https://flisol.info/FLISOL2018/Brasil)
+[![](/img/banner_flisol.jpg)](https://flisol.info/FLISOL2018/Brasil)
 
 
 ----

@@ -5,7 +5,7 @@ draft: false
 description: ""
 ---
 
-<a href="/pescar" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
+<a href="/" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
 
 > LibreOffice é uma suíte de aplicativos livre para escritório disponível para Windows, Unix, Solaris, Linux e Mac OS X. A suíte utiliza o formato OpenDocument (ODF - OpenDocument Format) — formato homologado como ISO/IEC 26300 e NBR ISO/IEC 26300 — e é também compatível com os formatos do Microsoft Office, além de outros formatos legados. Alguns deles não são suportados pelas versões mais recentes do Microsoft Office, mas ainda podem ser abertos pelo LibreOffice.
 
