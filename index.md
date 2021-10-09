@@ -30,7 +30,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 <i class="fa fa-file-text-o"></i> [Ubunchu: Um Mangá sobre Ubuntu](/pt/posts/2016-04-17_ubunchu/)
 
-<i class="fa fa-file-text-o"></i> [Como se Tornar um Hacker](/hacker-howto/)
+<i class="fa fa-file-text-o"></i> [Como se Tornar um Hacker](https://jonatha.daguerre.com.br/hacker-howto/)
 
 <i class="fa fa-file-video-o"></i> [Vídeos do TED](/ted/)
 
@@ -42,8 +42,8 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 
 ### Outros sites
+* [Diolinux](https://diolinux.com.br/)
 * [Projeto GNU](http://www.gnu.org/philosophy/free-sw.pt-br.html)
-* [Software Livre Brasil](http://softwarelivre.org/)
 * [TcheLinux.org](http://tchelinux.org/)
 * [Forum Viva o Linux](http://www.vivaolinux.com.br/)
 * [Softwares alternativos para Linux](http://www.linuxalt.com/)
@@ -51,26 +51,13 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ----
 
-### Eventos de Software Livre no Brasil
-<br/>
-[![](/img/banner_fisl.jpg)](http://fisl.softwarelivre.org)
-
-
-[![](/img/banner_latinoware.jpg)](http://latinoware.org/)
-
-[![](/img/banner_flisol.jpg)](https://flisol.info/FLISOL2018/Brasil)
-
-
-----
-
 ## Vídeos
 
-#### História do Linux em 5 minutos
+#### Como o Linux é construído - Legendado
 
->Apresenta o surgimento e avanço do Kernel Linux até os dias de hoje.
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/oqHsiFeQK30" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PB7RJj6Ec0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
