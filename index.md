@@ -28,7 +28,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 ### Extras
 <i class="fa fa-file-text-o"></i> [Libreoffice](/libreoffice/)
 
-<i class="fa fa-file-text-o"></i> [Ubunchu: Um Mangá sobre Ubuntu](/pt/posts/2016-04-17_ubunchu/)
+<i class="fa fa-file-text-o"></i> [Ubunchu: Um Mangá sobre Ubuntu](https://jonatha.daguerre.com.br/blog/ubunchu/)
 
 <i class="fa fa-file-text-o"></i> [Como se Tornar um Hacker](https://jonatha.daguerre.com.br/hacker-howto/)
 
