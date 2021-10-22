@@ -9,23 +9,23 @@ draft: false
 <a href="/" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
 
 #### 1 - Uso do sistema
-**Data de entrega:** 20/06/2018
+**Data de entrega:** 22/10/2021
 
 Realize cada uma das tarefas a baixo no seu computador:
 
 - Crie uma pasta com seu nome, dentro da pasta "Documentos".
-- Crie um arquivo de texto dentro dessa pasta com o seguinte nome "Tarefas-20-06-2018.txt".
+- Crie um arquivo de texto dentro dessa pasta com o seguinte nome "Tarefas-22-10-2021.txt".
 - Tire um print (screenshot) dessa tela.
-- Escreva dentro do arquivo "Tarefas-20-06-2018.txt" as seguintes informações sobre as configurações do computador: **memória ram**, **capacidade de HD (disco rígido)** e **velocidade do processador**.
+- Escreva dentro do arquivo "Tarefas-22-10-2021.txt" as seguintes informações sobre as configurações do computador: **memória ram**, **capacidade de HD (disco rígido)** e **velocidade do processador**.
 - Buscar no Google uma imagem usando as palavras ["tux wallpaper"](http://lmgtfy.com/?q=Tux+wallpaper) e coloque como plano de fundo da área de trabalho.
 - Altere o painel de tarefas de lugar.
 - Novamente, tire um print (screenshot) da área de trabalho e salve na pasta "Imagens".
-- Enviar o arquivo "Tarefas-20-06-2018.txt" e os prints da tela, num arquivo compactado (zipado), com a extensão ".zip" por email para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`.
+- Enviar o arquivo "Tarefas-22-10-2021.txt" e os prints da tela, num arquivo compactado (zipado), com a extensão ".zip" por email para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`.
 
 
 
 #### 2 - Uso do sistema
-**Data de entrega:** ???
+**Data de entrega:** 22/10/2021
 
 Realize cada uma das tarefas a baixo no seu computador:
 
@@ -38,7 +38,7 @@ Realize cada uma das tarefas a baixo no seu computador:
 
 #### 3 - Texto sobre as aulas
 
-**Data de entrega:** ???
+**Data de entrega:** 22/10/2021
 
 Escrever um pequeno texto (pode ser um parágrafo) falando sobre algo que gostou nas aulas que tivemos até agora, ou sobre algum tópico ou vídeo da [página web](/pescar) do módulo. Explique do que gostou e o porquê.
 Enviar o texto por email (anexo ou no corpo do email) para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`.
