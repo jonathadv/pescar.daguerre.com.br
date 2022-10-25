@@ -17,9 +17,9 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 ### Documentos de Aula
 <i class="fa fa-file-pdf-o"></i> [Projeto Pescar GNU/Linux (apresentação em PDF)](/files/Projeto_Pescar_GNU_Linux.pdf)
 
-<i class="fa fa-file-text-o"></i> [Linux Mint 18 - Guia de instalação](https://linuxmint-installation-guide.readthedocs.io/pt_BR/latest/)
+<i class="fa fa-file-text-o"></i> [Linux Mint - Guia de instalação](https://linuxmint-installation-guide.readthedocs.io/pt_BR/latest/)
 
-<i class="fa fa-file-pdf-o"></i> [Linux Mint 18 - Guia Oficial do Usuário](https://linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf)
+<i class="fa fa-file-pdf-o"></i> [Linux Mint - Guia Oficial do Usuário](https://linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf)
 
 <i class="fa fa-file-text-o"></i> [Linha de Comando](/cli)
 
@@ -47,7 +47,6 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 * [TcheLinux.org](http://tchelinux.org/)
 * [Forum Viva o Linux](http://www.vivaolinux.com.br/)
 * [Softwares alternativos para Linux](http://www.linuxalt.com/)
-* [Buscador de Aplicativos para Linux](http://linuxappfinder.com/alternatives)
 
 ----
 
