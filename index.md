@@ -38,7 +38,8 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ### Artigos Externos
 * [Software livre, código aberto e software gratuito: as diferenças](http://www.infowester.com/freexopen.php)
-* [Linha do tempo das Distribuilções GNU/Linux](http://futurist.se/gldt/)
+* [Linha do tempo das Distribuilções GNU/Linux](http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.png)
+<!--- * [Linha do tempo das Distribuilções GNU/Linux](http://futurist.se/gldt/) - Site is currently broken-->
 
 
 ### Outros sites
@@ -47,6 +48,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 * [TcheLinux.org](http://tchelinux.org/)
 * [Forum Viva o Linux](http://www.vivaolinux.com.br/)
 * [Softwares alternativos para Linux](http://www.linuxalt.com/)
+* [Choose an open source license (Escolher uma licença de código aberto)](https://choosealicense.com/licenses/)
 
 ----
 
