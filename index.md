@@ -9,7 +9,7 @@ description: "O objetivo desta página é oferecer conteúdo de apoio às aulas 
 ![](/img/pescar-banner.jpg)
 
 ### Bem vindo aluno!  <i class="fa fa-linux "></i>
-O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do [Projeto Pescar Unidade Procempa](http://www2.portoalegre.rs.gov.br/pescar). Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux, Software Livre e Código Aberto.
+O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do [Projeto Pescar Unidade Procempa](https://prefeitura.poa.br/procempa/projeto-pescar). Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux, Software Livre e Código Aberto.
 
 
 ----
@@ -18,8 +18,6 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 <i class="fa fa-file-pdf-o"></i> [Projeto Pescar GNU/Linux (apresentação em PDF)](/files/Projeto_Pescar_GNU_Linux.pdf)
 
 <i class="fa fa-file-text-o"></i> [Linux Mint - Guia de instalação](https://linuxmint-installation-guide.readthedocs.io/pt_BR/latest/)
-
-<i class="fa fa-file-pdf-o"></i> [Linux Mint - Guia Oficial do Usuário](https://linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf)
 
 <i class="fa fa-file-text-o"></i> [Linha de Comando](/cli)
 
@@ -36,13 +34,13 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ----
 
-### Artigos Externos
+### Artigos
 * [Software livre, código aberto e software gratuito: as diferenças](http://www.infowester.com/freexopen.php)
 * [Linha do tempo das Distribuilções GNU/Linux](http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.png)
 <!--- * [Linha do tempo das Distribuilções GNU/Linux](http://futurist.se/gldt/) - Site is currently broken-->
 
 
-### Outros sites
+### Comunidade
 * [Diolinux](https://diolinux.com.br/)
 * [Projeto GNU](http://www.gnu.org/philosophy/free-sw.pt-br.html)
 * [TcheLinux.org](http://tchelinux.org/)
@@ -65,7 +63,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 #### InProprietário - O Mundo do Software Livre
 
-Este documentário explica o que é, como funciona o ecossistema do software livre e sua origem histórica.
+Este documentário explica o que é e como funciona o ecossistema de software aberto.
 
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/MKDn9quw5sc" frameborder="0" allowfullscreen></iframe>
