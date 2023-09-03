@@ -66,7 +66,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 Este documentário explica o que é e como funciona o ecossistema de software aberto.
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MKDn9quw5sc" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_GI3CsXOeKs?si=wJs4t9GtlaGF_tdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ---
