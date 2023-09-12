@@ -143,6 +143,12 @@ A baixo temos uma breve explicação sobre alguns dos comandos mais comuns em um
 * `grep -n "palavra" "arquivo1"` - Filtra **arquivo1** por ocorrências de **"palavra"** mostrando o número das linhas de cada ocorrência.
 
 ----
+`find` - Busca por arquivos e diretórios
+
+* `find .` - Busca todos os arquivos a partir do diretório atual.
+* `find /etc/ -name '*.conf'` - Busca em `/etc` todos os arquivos com o nome terminado em `.conf`.
+
+----
 `|` - (*Pipe*) - Comando que tranfere a saída de um comando para a entrada de outro comando. Permite encadear comandos para realizar tarefas mais complexas.
 
 Exemplos:
