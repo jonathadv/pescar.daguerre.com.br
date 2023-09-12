@@ -1,6 +1,6 @@
 ---
 title: "Exercícios de Aula"
-date: 2018-06-23T15:42:00-03:00
+date: 2023-09-12T16:25:00-03:00
 draft: false
 ---
 
@@ -10,53 +10,53 @@ draft: false
 
 #### 1 - Uso do sistema
 
+Realize cada uma das tarefas abaixo no seu computador:
+
+- Abra o gerenciador de arquivos
+- Entre na pasta `Documentos`
+- Dentro da pasta `Documentos`, crie um arquivo de texto puro com o nome `informações-do-sistema.txt`.
+- Abra o arquivo `informações-do-sistema.txt` e escreva dentro as seguintes informações sobre as configurações do computador:
+  - **Sistema Operacional**
+  - **Kernel do Linux**
+  - **Model do Processador**
+  - **Memória RAM**
+  - **Disco rígido**
+  - **Nome do usuário atual**
+  - **Grupos do sistema em que o usuário atual está**
+- Salve o arquivo
+- Feche todas as janelas atualmente abertas
+- Altere o plano de fundo da área de trabalho para uma imagem de paisagem natural
+- Na área de trabalho, mantenha apenas os seguites ícones:
+  - Computador
+  - Pasta Pessoal
+  - Lixeira
+- Abra novamente o gerenciador de arquivos na pasta `Documentos` e posicione a janela ao lado direito da tela (utilizar o ajuste automático de janela)
+- Tire um print da tela atual (screenshot) e salve dentro da pasta `Documentos`.
+- Crie um arquivo compactado chamado `tarefa1.zip` contendo o arquivo `informações-do-sistema.txt` e o screenshot tirado anteriormente.
+- Envie o arquivo `tarefa1.zip` por email para o endereço `jonatha@daguerre.com.br` com o assunto `NOME DO ALUNO - Tarefa 01 - Uso do sistema`.
+
+
+
+#### 2 - Personalização do Sistema
+
 Realize cada uma das tarefas a baixo no seu computador:
 
-- Crie uma pasta com seu nome, dentro da pasta "Documentos".
-- Crie um arquivo de texto dentro dessa pasta com o seguinte nome "Tarefa-Linux-1.txt".
-- Tire um print (screenshot) dessa tela.
-- Escreva dentro do arquivo "Tarefa-Linux-1.txt" as seguintes informações sobre as configurações do computador: **memória ram**, **capacidade de HD (disco rígido)** e **velocidade do processador**.
-- Buscar no Google uma imagem usando as palavras ["tux wallpaper"](http://lmgtfy.com/?q=Tux+wallpaper) e coloque como plano de fundo da área de trabalho.
-- Altere o painel de tarefas de lugar.
-- Novamente, tire um print (screenshot) da área de trabalho e salve na pasta "Imagens".
-- Enviar o arquivo "Tarefa-Linux-1.txt" e os prints da tela, num arquivo compactado (zipado), com a extensão ".zip" por email para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`.
+- Mova o painel para o topo da área de trabalho
+- Nas configurações do relógio do painel, habilite a opção "Usar um formato de data personalizado"
+- No campo "Formato da data", mudar o valor para "`%A,  %e de %B de %Y, %H:%M:%S`"
+  - **Não alterar** o campo "Formato de data para dica de ferramenta"
+- Em Configurações do Sistema, na opção "Temas", mude o tema do sistema (cores, ponteiro do mouse, ícones, etc)
+- Em Configurações do Sistema, na opção "Janelas", mude a diposição dos botões para a **esquerda**.
+- Abra o gerenciador de arquivos e posicione a janela de forma que ocupe a metade inferior da área de trabalho (utilizar o ajuste automático de janela)
+- Tire um print da tela atual (screenshot) e salve dentro da pasta `Imagens`.
+- Envie o screenshot por anexo por email para o endereço `jonatha@daguerre.com.br` com o assunto `NOME DO ALUNO - Tarefa 02 - Personalização do sistema`.
 
 
-
-#### 2 - Uso do sistema
-
-Realize cada uma das tarefas a baixo no seu computador:
-
-- Criar uma pasta com o nome "GNU-Linux" nos documentos.
-- Adicionar a pasta "GNU-Linux" nos marcadores do gerenciador de arquivos.
-- Buscar no Google uma imagem usando as palavras ["tux wallpaper"](http://lmgtfy.com/?q=Tux+wallpaper) e salvar na pasta "GNU-Linux".
-- Usar essa imagem como papel de parede da área de trabalho.
-- Criar uma um arquivo de texto puro nessa pasta, procurar no Google a letra de uma música que goste e colar dentro do arquivo e salvar.
-
-
-#### 3 - Texto sobre as aulas
-
-Escrever um pequeno texto (pode ser um parágrafo) falando sobre algo que gostou nas aulas que tivemos até agora, ou sobre algum tópico ou vídeo da [página web](/) do módulo. Explique do que gostou e o porquê.
-Enviar o texto por email (anexo ou no corpo do email) para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`.
-
-
-**Tópicos sugeridos:**
-
-* Software Livre
-* GNU e Linux 
-* Linux Mint
-* Interface Gráfica
-* Instalação do sistema e particionamento do HD
-
-*Obs.: Os professores estão à disposição dos alunos para ajudar com o processo de criação e envio de email.*
-
-----
-
-#### 4 - CLI Parte 1
+#### 3 - CLI Parte 1
 
 Abra o terminal e execute os comandos necessários para realizar as tarefas abaixo. Faça todas as tarefas na mesma janela de terminal.
 
-Após o término de todas as tarefas, você deve copiar todo o conteúdo da janela, colocar **no corpo de um email** e enviá-lo para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`. O título do email **deve ser** `CLI Parte 1`.
+Após o término de todas as tarefas, você deve copiar todo o conteúdo da janela, colocar **no corpo de um email** e enviá-lo para `jonatha@daguerre.com.br`. O título do email **deve ser** `CLI Parte 1`.
 
 **Atenção:** Você pode consultar a lista de comandos vistos em aula [aqui](/cli).
 
@@ -76,11 +76,11 @@ Após o término de todas as tarefas, você deve copiar todo o conteúdo da jane
 ###### Para copiar o conteúdo da janela de terminal
 Vá até o menu `Editar` e clique em `Selecionar tudo`, depois volte ao menu `Editar` e clique em `Copiar`.
 
-#### 5 - CLI Parte 2
+#### 4 - CLI Parte 2
 
 Abra o terminal e execute os comandos necessários para realizar as tarefas abaixo. Faça todas as tarefas na mesma janela de terminal.
 
-Após o término de todas as tarefas, você deve copiar todo o conteúdo da janela, colocar **no corpo de um email** e enviá-lo para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`. O título do email **deve ser** `CLI Parte 2`.
+Após o término de todas as tarefas, você deve copiar todo o conteúdo da janela, colocar **no corpo de um email** e enviá-lo para `jonatha@daguerre.com.br`. O título do email **deve ser** `CLI Parte 2`.
 
 **Atenção:** Você pode consultar a lista de comandos vistos em aula [aqui](https://jonatha.daguerre.com.br/pescar/cli/).
 
