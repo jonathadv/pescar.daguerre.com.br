@@ -30,8 +30,6 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 <i class="fa fa-file-text-o"></i> [Como se Tornar um Hacker](https://jonatha.daguerre.com.br/hacker-howto/)
 
-<i class="fa fa-file-video-o"></i> [Vídeos do TED](/ted/)
-
 ----
 
 ### Artigos
