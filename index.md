@@ -17,7 +17,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 ### Documentos de Aula
 <i class="fa fa-file-pdf-o"></i> [Projeto Pescar GNU/Linux (apresentação em PDF)](/files/Projeto_Pescar_GNU_Linux.pdf)
 
-<i class="fa fa-file-text-o"></i> [Linux Mint - Guia de instalação](https://linuxmint-installation-guide.readthedocs.io/pt_BR/latest/)
+<i class="fa fa-file-text-o"></i> [Linux Mint - Site oficial](https://linuxmint.com/)
 
 <i class="fa fa-file-text-o"></i> [Linha de Comando](/cli)
 
@@ -40,8 +40,6 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ### Comunidade
 * [Diolinux](https://diolinux.com.br/)
-* [Projeto GNU](http://www.gnu.org/philosophy/free-sw.pt-br.html)
-* [TcheLinux.org](http://tchelinux.org/)
 * [Forum Viva o Linux](http://www.vivaolinux.com.br/)
 * [Softwares alternativos para Linux](http://www.linuxalt.com/)
 * [Choose an open source license (Escolher uma licença de código aberto)](https://choosealicense.com/licenses/)
@@ -61,7 +59,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 #### InProprietário - O Mundo do Software Livre
 
-Este documentário explica o que é e como funciona o ecossistema de software aberto.
+Este documentário explica o que é e como funciona o ecossistema de software livre e de código aberto.
 
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/_GI3CsXOeKs?si=wJs4t9GtlaGF_tdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
