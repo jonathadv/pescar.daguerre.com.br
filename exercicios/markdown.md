@@ -27,11 +27,12 @@
 
 
 ## Cursos 🎓 <!--cap-->
-| Curso | Instituição | Período  |
-|---|---|---|
-| Curso 1  | Instituição 1   | 2024 |
-| Curso 2  | Instituição 2   | 2023 |
-| Curso 3  | Instituição 3   | 2022 |
+
+Curso | Instituição | Período
+:---|---:|:---:
+Curso 1  | Instituição 1   | 2024
+Curso 2  | Instituição 2   | 2023
+Curso 3  | Instituição 3   | 2022
 
 
 ## Habilidades técnicas 🛠️ <!--Hammer and Wrench-->
