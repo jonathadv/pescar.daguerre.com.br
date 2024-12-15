@@ -15,20 +15,22 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 ----
 
 ### Documentos de Aula
-<i class="fa fa-file-pdf-o"></i> [Projeto Pescar GNU/Linux (apresentação em PDF)](/files/Projeto_Pescar_GNU_Linux.pdf)
+🗎 [Projeto Pescar GNU/Linux (apresentação em PDF)](/files/Projeto_Pescar_GNU_Linux.pdf)
 
-<i class="fa fa-file-text-o"></i> [Linux Mint - Site oficial](https://linuxmint.com/)
+🗎 [Linux Mint - Site oficial](https://linuxmint.com/)
 
-<i class="fa fa-file-text-o"></i> [Linha de Comando](/cli)
+🗎 [Linha de Comando](/cli)
 
-<i class="fa fa-file-text-o"></i> [Exercícios de aula](/exercicios)
+🗎 [Exercícios de aula](/exercicios)
 
 ### Extras
-<i class="fa fa-file-text-o"></i> [Libreoffice](/libreoffice/)
+🗎 [Libreoffice](/libreoffice/)
 
-<i class="fa fa-file-text-o"></i> [Ubunchu: Um Mangá sobre Ubuntu](https://jonatha.daguerre.com.br/blog/ubunchu/)
+🗎 [Ubunchu: Um Mangá sobre Ubuntu](https://jonatha.daguerre.com.br/blog/ubunchu/)
 
-<i class="fa fa-file-text-o"></i> [Como se Tornar um Hacker](https://jonatha.daguerre.com.br/hacker-howto/)
+🗎 [Como se Tornar um Hacker](https://jonatha.daguerre.com.br/hacker-howto/)
+
+🗎 [O Guia Definitivo de MarkDown para Iniciantes](https://github.com/mende1/guia-definitivo-de-markdown/tree/master)
 
 ----
 
