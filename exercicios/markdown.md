@@ -28,15 +28,19 @@
 
 ## Cursos 🎓 <!--cap-->
 | Curso | Instituição | Período  |
-|---------|--------|------|
+|---|---|---|
 | Curso 1  | Instituição 1   | 2024 |
-| Curso 2  | Instituição 2   | 2024 |
+| Curso 2  | Instituição 2   | 2023 |
+| Curso 3  | Instituição 3   | 2022 |
 
 
-[x] v1
-[ ] v2
+## Habilidades técnicas 🛠️ <!--Hammer and Wrench-->
+- [x] Sistemas Operacionais
+- [x] HTML
+- [ ] Markdown (em andamendo)
 
 
+## Projetos ou Experiência Prática
 ```java
 public static void main(String args[]){
   System.out.println("Olá mundo")
