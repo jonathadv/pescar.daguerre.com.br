@@ -36,8 +36,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ### Artigos
 * [Software livre, código aberto e software gratuito: as diferenças](http://www.infowester.com/freexopen.php)
-* [Linha do tempo das Distribuilções GNU/Linux](http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.png)
-<!--- * [Linha do tempo das Distribuilções GNU/Linux](http://futurist.se/gldt/) - Site is currently broken-->
+* [Linha do tempo das Distribuilções GNU/Linux](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
 
 ### Comunidade
