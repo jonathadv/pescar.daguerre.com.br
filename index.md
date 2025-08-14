@@ -66,7 +66,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 Este documentário explica o que é, e como funciona o ecossistema de software livre e de código aberto.
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_GI3CsXOeKs?si=wJs4t9GtlaGF_tdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JvpPN3Se2XM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ---
@@ -76,5 +76,5 @@ Este documentário explica o que é, e como funciona o ecossistema de software l
  Documentário do ano de 2001 que trata da história do GNU, Linux, open source, e do movimento software livre.
 
 <div class="video-container">
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/plMxWpXhqig" frameborder="0" allowfullscreen></iframe>
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/nGd-YsgXYd0" frameborder="0" allowfullscreen></iframe>
 </div>
