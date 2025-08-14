@@ -32,11 +32,14 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 🗎 [O Guia Definitivo de MarkDown para Iniciantes](https://github.com/mende1/guia-definitivo-de-markdown/tree/master)
 
+🗎 [Linha do tempo das Distribuilções GNU/Linux](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+
+🗎 [Histórico das versões do Debian](/img/debian-distros-timeline.webp)
+
 ----
 
 ### Artigos
 * [Software livre, código aberto e software gratuito: as diferenças](http://www.infowester.com/freexopen.php)
-* [Linha do tempo das Distribuilções GNU/Linux](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
 
 ### Comunidade
