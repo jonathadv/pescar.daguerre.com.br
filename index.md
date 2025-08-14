@@ -50,11 +50,11 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ## Vídeos
 
-#### Como o Linux é construído - Legendado
+#### Como o Linux é Construído (Dublado)
 
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PB7RJj6Ec0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pa4BFftpoqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
