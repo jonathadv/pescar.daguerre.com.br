@@ -15,6 +15,8 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 ----
 
 ### Documentos de Aula
+🗎 [Relações Interpessoais e Comunicação Não-Violenta (PDF)](/files/Relações_Interpessoais_e_Comunicação_Não-Violenta.pdf)
+
 🗎 [Projeto Pescar GNU/Linux (apresentação em PDF)](/files/Projeto_Pescar_GNU_Linux.pdf)
 
 🗎 [Linux Mint - Site oficial](https://linuxmint.com/)
