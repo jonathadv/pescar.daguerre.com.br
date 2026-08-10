@@ -58,6 +58,69 @@ Siga os passos abaixo no seu computador:
     `NOME DO ALUNO - Tarefa 01 - Uso do sistema` (certifique-se de substituir "NOME DO ALUNO" pelo seu nome completo).
 
 
+# 2 - Tarefas do dia a dia
+
+Siga os passos abaixo no seu computador:
+
+1. **Crie uma pasta para organizar seus arquivos**:
+   Acesse a pasta `Documentos` e crie uma nova pasta chamada `Tarefa 02`.
+
+2. **Crie uma estrutura de pastas**:
+   Dentro da pasta `Tarefa 02`, crie as seguintes pastas:
+
+   * `Textos`
+   * `Imagens`
+   * `Downloads`
+
+3. **Utilize o navegador de Internet**:
+   Abra o navegador e acesse um site de notícias de sua preferência.
+
+4. **Salve uma imagem**:
+   Encontre uma imagem relacionada a uma notícia e salve-a no computador. Em seguida, localize o arquivo que foi baixado e mova-o para a pasta `Tarefa 02/Imagens`.
+
+5. **Renomeie o arquivo**:
+   Renomeie a imagem salva para `noticia.jpg`, mantendo a extensão original caso ela seja diferente de `.jpg`.
+
+6. **Crie uma anotação**:
+   Abra um editor de texto simples e crie um arquivo chamado `anotacoes.txt`. Escreva nele:
+
+   * Seu nome completo
+   * A data de hoje
+   * O endereço do site que você acessou
+   * Uma frase descrevendo a notícia escolhida
+
+   Salve o arquivo dentro da pasta `Tarefa 02/Textos`.
+
+7. **Faça uma cópia do arquivo**:
+   Crie uma cópia do arquivo `anotacoes.txt` e coloque-a na pasta `Tarefa 02`. Renomeie a cópia para `backup-anotacoes.txt`.
+
+8. **Utilize a pesquisa de arquivos**:
+   Feche o gerenciador de arquivos e abra-o novamente. Utilize o recurso de pesquisa para localizar o arquivo `backup-anotacoes.txt`.
+
+9. **Utilize a lixeira**:
+   Exclua o arquivo `backup-anotacoes.txt`. Depois, abra a Lixeira, localize o arquivo e restaure-o para seu local original.
+
+10. **Abra dois programas ao mesmo tempo**:
+    Abra o gerenciador de arquivos e o editor de texto. Organize as duas janelas para que cada uma ocupe metade da tela.
+
+11. **Verifique o resultado da tarefa**:
+    Ao final, a pasta `Tarefa 02` deverá conter:
+
+    * A pasta `Textos`, contendo `anotacoes.txt`
+    * A pasta `Imagens`, contendo a imagem da notícia
+    * A pasta `Downloads`
+    * O arquivo `backup-anotacoes.txt`
+
+12. **Compacte a tarefa**:
+    Compacte toda a pasta `Tarefa 02` em um único arquivo chamado `tarefa2.zip`.
+
+13. **Envie o arquivo por email**:
+    Anexe o arquivo `tarefa2.zip` e envie para o endereço `jonatha@daguerre.com.br` com o seguinte assunto:
+    `NOME DO ALUNO - Tarefa 02 - Tarefas do dia a dia`
+
+    Certifique-se de substituir `NOME DO ALUNO` pelo seu nome completo.
+
+
 # 2 - CLI Parte 1
 
 Siga os passos abaixo utilizando o terminal. Todas as tarefas devem ser realizadas na mesma janela de terminal.
