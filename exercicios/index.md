@@ -8,120 +8,123 @@ draft: false
 
 <a href="/" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
 
-# 1 - Uso do sistema
+# 1 - Cinnamon, janelas e arquivos
 
 Siga os passos abaixo no seu computador:
 
-1. **Acesse o gerenciador de arquivos**:  
-   Localize e abra o gerenciador de arquivos no seu ambiente de trabalho.
-
-2. **Acesse a pasta `Documentos`**:  
-   Navegue até a pasta chamada `Documentos`.
-
-3. **Crie um arquivo de texto puro**:  
-   Dentro da pasta `Documentos`, crie um arquivo de texto chamado `informações-do-sistema.txt`.
-
-4. **Edite o arquivo criado**:  
-   Abra o arquivo `informações-do-sistema.txt` e preencha as seguintes informações sobre o seu computador:  
-   - **Nome do sistema operacional**  
-   - **Versão do kernel do Linux**  
-   - **Modelo do processador**  
-   - **Quantidade de memória RAM**  
-   - **Capacidade do disco rígido**  
-   - **Nome do usuário atual**  
-   - **Grupos do sistema aos quais o usuário atual pertence**  
-   Após preencher, salve o arquivo.
-
-5. **Feche todas as janelas abertas**:  
-   Certifique-se de que nenhuma outra janela ou programa esteja aberto.
-
-6. **Personalize o plano de fundo**:  
-   Altere o plano de fundo da área de trabalho para uma imagem de paisagem natural.
-
-7. **Organize os ícones da área de trabalho**:  
-   Mantenha visíveis apenas os seguintes ícones:  
-   - Computador  
-   - Pasta Pessoal  
-   - Lixeira  
-
-8. **Posicione o gerenciador de arquivos**:  
-   Reabra o gerenciador de arquivos, navegue até a pasta `Documentos` e ajuste a janela para ocupar o lado direito da tela utilizando o recurso de ajuste automático.
-
-9. **Tire um screenshot da tela**:  
-   Capture a tela atual (screenshot) e salve a imagem dentro da pasta `Documentos`.
-
-10. **Crie um arquivo compactado**:  
-    Na pasta `Documentos`, compacte o arquivo `informações-do-sistema.txt` e o screenshot em um único arquivo chamado `tarefa1.zip`.
-
-11. **Envie o arquivo por email**:  
-    Anexe o arquivo `tarefa1.zip` e envie para o endereço `jonatha@daguerre.com.br` com o seguinte assunto:  
-    `NOME DO ALUNO - Tarefa 01 - Uso do sistema` (certifique-se de substituir "NOME DO ALUNO" pelo seu nome completo).
-
-
-# 2 - Tarefas do dia a dia
-
-Siga os passos abaixo no seu computador:
-
-1. **Crie uma pasta para organizar seus arquivos**:
-   Acesse a pasta `Documentos` e crie uma nova pasta chamada `Tarefa 02`.
-
-2. **Crie uma estrutura de pastas**:
-   Dentro da pasta `Tarefa 02`, crie as seguintes pastas:
+1. **Crie a estrutura do exercício**:
+   Dentro da pasta `Documentos`, crie uma pasta chamada `Exercicio 01` e, dentro dela, crie as pastas:
 
    * `Textos`
    * `Imagens`
-   * `Downloads`
+   * `Backup`
 
-3. **Utilize o navegador de Internet**:
-   Abra o navegador e acesse um site de notícias de sua preferência.
-
-4. **Salve uma imagem**:
-   Encontre uma imagem relacionada a uma notícia e salve-a no computador. Em seguida, localize o arquivo que foi baixado e mova-o para a pasta `Tarefa 02/Imagens`.
-
-5. **Renomeie o arquivo**:
-   Renomeie a imagem salva para `noticia.jpg`, mantendo a extensão original caso ela seja diferente de `.jpg`.
-
-6. **Crie uma anotação**:
-   Abra um editor de texto simples e crie um arquivo chamado `anotacoes.txt`. Escreva nele:
+2. **Crie um arquivo de texto**:
+   Dentro da pasta `Textos`, crie o arquivo `aluno.txt` contendo:
 
    * Seu nome completo
    * A data de hoje
-   * O endereço do site que você acessou
-   * Uma frase descrevendo a notícia escolhida
+   * Uma frase sobre o que você aprendeu no Linux Mint
 
-   Salve o arquivo dentro da pasta `Tarefa 02/Textos`.
+3. **Copie e renomeie um arquivo**:
+   Copie `aluno.txt` para a pasta `Backup` e renomeie a cópia para `aluno-backup.txt`.
 
-7. **Faça uma cópia do arquivo**:
-   Crie uma cópia do arquivo `anotacoes.txt` e coloque-a na pasta `Tarefa 02`. Renomeie a cópia para `backup-anotacoes.txt`.
+4. **Exclua e restaure um arquivo**:
+   Exclua `aluno-backup.txt` e, utilizando a Lixeira, restaure o arquivo para seu local original.
 
-8. **Utilize a pesquisa de arquivos**:
-   Feche o gerenciador de arquivos e abra-o novamente. Utilize o recurso de pesquisa para localizar o arquivo `backup-anotacoes.txt`.
+5. **Organize as janelas**:
+   Abra a pasta `Textos` em uma janela e a pasta `Backup` em outra. Organize as duas janelas para que cada uma ocupe metade da tela.
 
-9. **Utilize a lixeira**:
-   Exclua o arquivo `backup-anotacoes.txt`. Depois, abra a Lixeira, localize o arquivo e restaure-o para seu local original.
+6. **Registre o resultado**:
+   Tire um screenshot mostrando as duas janelas lado a lado e salve-o dentro da pasta `Imagens`.
 
-10. **Abra dois programas ao mesmo tempo**:
-    Abra o gerenciador de arquivos e o editor de texto. Organize as duas janelas para que cada uma ocupe metade da tela.
+7. **Compacte o exercício**:
+   Compacte toda a pasta `Exercicio 01` em um arquivo chamado `exercicio01.zip`.
 
-11. **Verifique o resultado da tarefa**:
-    Ao final, a pasta `Tarefa 02` deverá conter:
+8. **Envie o exercício**:
+   Envie `exercicio01.zip` para `jonatha@daguerre.com.br` com o assunto:
 
-    * A pasta `Textos`, contendo `anotacoes.txt`
-    * A pasta `Imagens`, contendo a imagem da notícia
-    * A pasta `Downloads`
-    * O arquivo `backup-anotacoes.txt`
+   `NOME DO ALUNO - Exercício 01 - Cinnamon`
 
-12. **Compacte a tarefa**:
-    Compacte toda a pasta `Tarefa 02` em um único arquivo chamado `tarefa2.zip`.
+   Substitua `NOME DO ALUNO` pelo seu nome completo.
 
-13. **Envie o arquivo por email**:
-    Anexe o arquivo `tarefa2.zip` e envie para o endereço `jonatha@daguerre.com.br` com o seguinte assunto:
-    `NOME DO ALUNO - Tarefa 02 - Tarefas do dia a dia`
+# 2 - Configurando o computador
 
-    Certifique-se de substituir `NOME DO ALUNO` pelo seu nome completo.
+Siga os passos abaixo no seu computador:
+
+1. **Crie a pasta do exercício**:
+   Dentro de `Documentos`, crie uma pasta chamada `Exercicio 02`.
+
+2. **Personalize a área de trabalho**:
+   Altere o plano de fundo para uma paisagem natural e configure a área de trabalho para exibir apenas:
+
+   * Computador
+   * Pasta Pessoal
+   * Lixeira
+
+3. **Altere as configurações do mouse**:
+   Aumente a velocidade do ponteiro do mouse e teste a nova configuração.
+
+4. **Altere as configurações de energia**:
+   Configure o computador para desligar a tela após **15 minutos** de inatividade.
+
+5. **Registre informações do computador**:
+   Crie o arquivo `sistema.txt` dentro de `Exercicio 02` e registre:
+
+   * Resolução atual da tela
+   * Quantidade de discos
+   * Capacidade do disco principal
+   * Nome do usuário atual
+
+6. **Crie um usuário**:
+   Crie um novo usuário chamado `aluno`, utilizando a senha indicada pelo professor.
+
+7. **Registre o resultado e compacte**:
+   Tire um screenshot da área de trabalho após as alterações e salve-o em `Exercicio 02`. Depois, compacte toda a pasta em `exercicio02.zip`.
+
+8. **Envie o exercício**:
+   Envie `exercicio02.zip` para `jonatha@daguerre.com.br` com o assunto:
+
+   `NOME DO ALUNO - Exercício 02 - Configurações`
+
+   Substitua `NOME DO ALUNO` pelo seu nome completo.
 
 
-# 2 - CLI Parte 1
+# 3 - Gerenciador de aplicativos
+
+Siga os passos abaixo no seu computador:
+
+1. **Crie a pasta do exercício**:
+   Dentro de `Documentos`, crie uma pasta chamada `Exercicio 03`.
+
+2. **Instale o Audacity**:
+   Utilize o Gerenciador de Aplicativos do Linux Mint para pesquisar e instalar o `Audacity`.
+
+3. **Execute o Audacity**:
+   Localize o Audacity no menu de aplicativos e execute o programa.
+
+4. **Registre a instalação**:
+   Tire um screenshot mostrando o Audacity em execução e salve-o dentro de `Exercicio 03`.
+
+5. **Registre as informações**:
+   Crie um arquivo chamado `audacity.txt` dentro de `Exercicio 03` contendo:
+
+   * Seu nome completo
+   * A versão instalada do Audacity
+   * Uma frase explicando para que serve o programa
+
+6. **Compacte o exercício**:
+   Compacte toda a pasta `Exercicio 03` em um arquivo chamado `exercicio03.zip`.
+
+7. **Envie o exercício**:
+   Envie `exercicio03.zip` para `jonatha@daguerre.com.br` com o assunto:
+
+   `NOME DO ALUNO - Exercício 03 - Aplicativos`
+
+   Substitua `NOME DO ALUNO` pelo seu nome completo.
+
+
+# 4 - CLI Parte 1
 
 Siga os passos abaixo utilizando o terminal. Todas as tarefas devem ser realizadas na mesma janela de terminal.
 
@@ -149,7 +152,7 @@ O título do email **deve ser**: `NOME DO ALUNO - CLI Parte 1` (certifique-se de
 
 Vá até o menu `Editar` e clique em `Selecionar tudo`, depois volte ao menu `Editar` e clique em `Copiar`.
 
-# 3 - CLI Parte 2
+# 5 - CLI Parte 2
 
 Siga os passos abaixo utilizando o terminal. Todas as tarefas devem ser realizadas na mesma janela de terminal.
 
