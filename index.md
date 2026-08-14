@@ -19,6 +19,8 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 🗎 [Linux Mint - Site oficial](https://linuxmint.com/)
 
+🗎 [Linux Mint - Instalação](/instalacao-mint/)
+
 🗎 [Linha de Comando](/cli)
 
 🗎 [Exercícios de aula](/exercicios)
