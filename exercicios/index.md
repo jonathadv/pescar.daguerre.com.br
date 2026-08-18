@@ -8,7 +8,11 @@ draft: false
 
 <a href="/" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
 
-# 1 - Cinnamon, janelas e arquivos
+
+<details>
+<summary>Exercícios de interface gráfica (GUI)</summary>
+
+## 1 - Cinnamon, janelas e arquivos
 
 Siga os passos abaixo no seu computador:
 
@@ -48,7 +52,10 @@ Siga os passos abaixo no seu computador:
 
    Substitua `NOME DO ALUNO` pelo seu nome completo.
 
-# 2 - Configurando o computador
+
+---
+
+## 2 - Configurando o computador
 
 Siga os passos abaixo no seu computador:
 
@@ -89,8 +96,9 @@ Siga os passos abaixo no seu computador:
 
    Substitua `NOME DO ALUNO` pelo seu nome completo.
 
+---
 
-# 3 - Gerenciador de aplicativos
+## 3 - Gerenciador de aplicativos
 
 Siga os passos abaixo no seu computador:
 
@@ -122,70 +130,157 @@ Siga os passos abaixo no seu computador:
    `NOME DO ALUNO - Exercício 03 - Aplicativos`
 
    Substitua `NOME DO ALUNO` pelo seu nome completo.
-
-
-# 4 - CLI Parte 1
-
-Siga os passos abaixo utilizando o terminal. Todas as tarefas devem ser realizadas na mesma janela de terminal.
-
-Ao término de todas as tarefas, copie o conteúdo completo da janela de terminal, cole-o **no corpo de um email** e envie para `jonatha@daguerre.com.br`.  
-O título do email **deve ser**: `NOME DO ALUNO - CLI Parte 1` (certifique-se de substituir "NOME DO ALUNO" pelo seu nome completo).
-
-**Atenção**: Você pode consultar a lista de comandos vistos em aula [aqui](/cli).
-
-
-## Tarefas
-
-1. Use o comando que mostra qual diretório você está atualmente.
-2. Use o comando que mostra qual usuário você é.
-3. Use o comando para mostrar a data e hora do sistema.
-4. Use o comando para mostrar o mês e ano do seu nascimento.
-5. Vá até o diretório `/tmp` e **liste** todo seu conteúdo.
-6. Volte para o diretório `/home/pescar`.
-7. Crie uma pasta chamada `Aluno`.
-8. Copie a pasta `Aluno` mas com o nome `Professor`.
-9. Crie uma pasta chamada `trabalhos` dentro da pasta `Aluno`, mas **sem entrar dentro da pasta** `Aluno`.
-10. Remova a pasta `trabalhos` de dentro de `Aluno`.
-
-
-**Para copiar o conteúdo da janela de terminal:**
-
-Vá até o menu `Editar` e clique em `Selecionar tudo`, depois volte ao menu `Editar` e clique em `Copiar`.
-
-# 5 - CLI Parte 2
-
-Siga os passos abaixo utilizando o terminal. Todas as tarefas devem ser realizadas na mesma janela de terminal.
-
-Ao término de todas as tarefas, copie o conteúdo completo da janela de terminal, cole-o **no corpo de um email** e envie para `jonatha@daguerre.com.br`.  
-O título do email **deve ser**: `NOME DO ALUNO - CLI Parte 2` (certifique-se de substituir "NOME DO ALUNO" pelo seu nome completo).
-
-**Atenção:** Você pode consultar a lista de comandos vistos em aula [aqui](https://jonatha.daguerre.com.br/pescar/cli/).
-
-## Tarefas
-
-1. Use o comando que mostra as informações de espaço usado no HD (lembre-se de usar o parâmetro `-h` para apresentar as informações de forma mais legível).
-2. Use o comando que mostra a quantidade de memória disponível no sistema (lembre-se de usar o parâmetro `-h` para apresentar as informações de forma mais legível).
-3. Use o comando que conta a quantidade de palavras no arquivo `/usr/share/dict/words`.
-4. Use um comando para **mostrar** o conteúdo do arquivo de texto `/etc/fstab`.
-5. Use o comando para **filtrar** todas as ocorrências da palavra `apple` no arquivo `/usr/share/dict/words` (utilize o parâmetro `-n` para incluir o número da linha em que a palavra aparece).
-
-
-**Para copiar o conteúdo da janela de terminal:**
-
-Vá até o menu `Editar` e clique em `Selecionar tudo`, depois volte ao menu `Editar` e clique em `Copiar`.
+</details>
 
 
 
 
+<details>
+<summary>Exercícios de interface de linha de comando (CLI)</summary>
+
+## Exercício 1 — Entendendo o terminal
+
+1. Descubra e exiba no terminal:
+   * Seu nome de usuário;
+   * O diretório em que você está;
+   * A data e hora atuais.
+
+2. Exiba o calendário correspondente ao **mês e ano do seu nascimento**.
+
+3. Liste o conteúdo da sua pasta pessoal exibindo também os **arquivos ocultos**.
+
+4. Acesse o diretório `Documentos` utilizando um **caminho relativo** e confirme em qual diretório você está.
+
+5. Sem sair de `Documentos`, liste detalhadamente o conteúdo do diretório `/tmp` utilizando um **caminho absoluto**.
+
+6. Execute, em sequência:
+
+   * Vá para o diretório pai utilizando `..`;
+   * Vá para sua pasta pessoal utilizando `~`;
+   * Vá para o diretório raiz utilizando `/`;
+   * Retorne para sua pasta pessoal.
+
+7. Utilize o comando `ls` para listar o conteúdo da sua pasta pessoa, e mostrar o tamanho dos arquivos de forma humanizada (KB, MB, GB).
+
+8. Limpe o terminal e mostre novamente apenas:
+
+   * Seu usuário;
+   * Seu diretório atual.
+
+---
+
+## Exercício 2 — Conhecendo o sistema
+
+1. Exiba as informações do kernel Linux utilizado pelo computador, incluindo sua versão.
+
+2. Descubra quanto espaço está:
+
+   * Disponível;
+   * Utilizado;
+
+   no sistema de arquivos principal do computador.
+
+3. Descubra:
+
+   * A quantidade total de memória RAM;
+   * A quantidade atualmente disponível (livre).
+
+4. Abra a **Calculadora** pelo menu do Cinnamon. Depois, utilize o terminal para localizar o processo correspondente na lista de processos em execução.
+
+5. Utilizando o PID encontrado, encerre o processo da Calculadora através do terminal com `kill`.
+
+6. Abra o comando `htop` e localize alguns dos processos que estão consumindo mais CPU ou memória. Depois, saia do `htop` sem fechar o terminal.
 
 
+---
+
+## Exercício 3 — Criando e manipulando arquivos
+
+1. Dentro de `Documentos`, crie através do terminal a seguinte estrutura de diretórios:
+
+```text
+Exercicio03/
+├── trabalhos/
+│   ├── linux/
+│   └── outros/
+└── backup/
+```
+
+2. Copie o arquivo `/etc/os-release` para o diretório `trabalhos/linux`.
+
+3. Faça uma segunda cópia de `os-release` dentro do diretório `backup`.
+
+4. Renomeie o arquivo existente em `trabalhos/linux` de `os-release` para:
+
+```text
+sistema.txt
+```
+
+5. Mova `sistema.txt` de `trabalhos/linux` para `trabalhos`.
+
+6. Exclua o diretório `linux`, que agora está vazio, utilizando um comando apropriado para remover **diretórios vazios**.
+
+7. Exclua o diretório `outros` e, em seguida, crie dentro de `trabalhos`:
+
+```text
+arquivos/
+├── documentos/
+└── temporarios/
+```
+
+Faça isso utilizando **um único comando**.
+
+8. Ao terminar, a estrutura deverá ser:
+
+```text
+Exercicio03/
+├── backup/
+│   └── os-release
+└── trabalhos/
+    ├── sistema.txt
+    └── arquivos/
+        ├── documentos/
+        └── temporarios/
+
+```
+
+---
+
+## Exercício 4 — Trabalhando com informações
 
 
+1. Exiba no terminal o conteúdo completo do arquivo:
+
+```text
+/etc/passwd
+```
+
+2. Abra `/etc/passwd` de forma que seja possível **navegar pelo conteúdo usando o teclado**, sem despejar todo o arquivo de uma vez no terminal.
+
+3. Descubra:
+
+   * Quantas linhas existem em `/etc/passwd`;
+   * Quantas palavras existem no arquivo.
+
+4. Procure dentro de `/etc/passwd` todas as linhas que contêm:
+
+```text
+/bin/bash
+```
+
+Exiba também o **número das linhas** encontradas.
+
+5. Utilize `find` para localizar dentro de `/etc` todos os arquivos que possuem exatamente o nome:
+
+```text
+hosts
+```
+
+Ignore eventuais mensagens de `Permission denied`.
+
+6. Utilize um **pipe (`|`)** para descobrir quantos usuários de `/etc/passwd` possuem `/bin/bash` configurado.
+
+7. Utilize `ps` combinado com `grep` através de um **pipe** para procurar os processos relacionados ao Cinnamon que estão em execução.
 
 
-
-
-
-
-
-
+</details>
