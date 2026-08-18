@@ -8,9 +8,7 @@ draft: false
 
 <a href="/" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
 
-
-<details>
-<summary>Exercícios de interface gráfica (GUI)</summary>
+# Exercícios de interface gráfica (GUI)
 
 ## 1 - Cinnamon, janelas e arquivos
 
@@ -130,13 +128,10 @@ Siga os passos abaixo no seu computador:
    `NOME DO ALUNO - Exercício 03 - Aplicativos`
 
    Substitua `NOME DO ALUNO` pelo seu nome completo.
-</details>
 
 
 
-
-<details>
-<summary>Exercícios de interface de linha de comando (CLI)</summary>
+# Exercícios de interface de linha de comando (CLI)
 
 ## Exercício 1 — Entendendo o terminal
 
@@ -282,5 +277,3 @@ Ignore eventuais mensagens de `Permission denied`.
 
 7. Utilize `ps` combinado com `grep` através de um **pipe** para procurar os processos relacionados ao Cinnamon que estão em execução.
 
-
-</details>
